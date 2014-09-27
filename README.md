@@ -1,4 +1,4 @@
 Auth_User
 =====
 
-PHP Authentication package
+PHP 5 authentication package
